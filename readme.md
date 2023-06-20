@@ -10,13 +10,17 @@ The project is centered on consolidating your GIT collaboration techniques, fami
 
 ### Watch the Instructor Instructional Video - [Here](https://youtu.be/TSxlwFRm148)
 
-### Assignment Instructions and Content
+### Project Instructions and Content
 
 - [Assignment Instructions](project.md)
 = [Weekly Deliverable Schedule](schedule.md)
 - [Week 1 Competitve Landscape Analysis](competitive_landscape.md)
 - [Week 2 Business Analysis and Design](analysis_design.md)
-- [Week 3 Final Proposal](proposal.md)
+- [Week 3 Final Website and Video Proposal](proposal.md)
+
+**Unlike Previous Assignments I will keep this repository as the "master" so that  I can update t for everyone over the next 3 weeks.  You will still use GitHub classroom; however, you will be writing your own tests and maintaining this repository for the entire project that will span the next 3 weeks**
+
+### [Click Here to Accept The GitHub Classroom Assignment](https://classroom.github.com/a/i_kI1M2b) - The first person in your group will need to create the group and they should name it your course number and section i.e. IS218-850-teamA
 
 ## Project Learning Objectives
 
