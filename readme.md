@@ -34,7 +34,7 @@ By completing this project, you will gain a deeper understanding of what your fi
 - [Week 1 Competitve Landscape Analysis](competitive_landscape.md)
 #### Main Video Content
 
-- Watch the Instructor Project Introduction Video - [Here](https://youtu.be/TSxlwFRm148)
+- Watch the Instructor Project Introduction Video - [Here](https://youtu.be/p0d6rYPz-LQ)
 - [What is a competitive landscape in general - 9 Minutes](https://www.youtube.com/watch?v=C91utiNU0cI)
 - [SWOT Analysis - 6 Minutes](https://www.youtube.com/watch?v=JXXHqM6RzZQ)
 - [Sales Funnel - 3 Minutes](https://www.youtube.com/watch?v=iYEr6zxSZAI)
