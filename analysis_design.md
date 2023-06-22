@@ -6,7 +6,7 @@
 **"Know your customers as you know yourself, and you'll craft a product they cannot refuse."**
 **- Professor Williams Quote**
 
-## Step 1: Analysing and Designing your Buyer Persona
+## Step 1: Analyzing and Designing your Buyer Persona
 In the initial phase of this module, your task is to leverage the insights derived from your competitive analysis and SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis to shape a comprehensive buyer persona for your chosen business. This persona represents your ideal customer and provides insights into their needs, behaviors, and motivations.
 
 In building your buyer persona, ensure you infuse the BANT (Budget, Authority, Need, Timing) strategy and the six methods of persuasion (Reciprocity, Commitment and Consistency, Social Proof, Authority, Liking, Scarcity). Grasping how these principles interact with your buyer persona will help shape a product/service that is compelling and persuasive, prompting your audience to action.
