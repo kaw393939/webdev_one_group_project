@@ -8,32 +8,10 @@ The project is centered on consolidating your GIT collaboration techniques, fami
 
 ## Module content
 
-### Week 1
-- Watch the Instructor Project Introduction Video - [Here](https://youtu.be/TSxlwFRm148)
-- [What is a competitive landscape in general - 9 Minutes](https://www.youtube.com/watch?v=C91utiNU0cI)
-- [SWOT Analysis - 6 Minutes](https://www.youtube.com/watch?v=JXXHqM6RzZQ)
-- [Sales Funnel - 3 Minutes](https://www.youtube.com/watch?v=iYEr6zxSZAI)
-- [Brand Guide - 20 Minutes](https://www.youtube.com/watch?v=iMqFcDvqGPo)
-- [Buyer Personas - 6 Minutes](https://www.youtube.com/watch?v=v6EWN4EjHM0)
-- [BANT - 9 Minutes](https://www.youtube.com/watch?v=MjtZ4DdDJNM)
-
-### Week 2
-
-To be announced
-
-### Week 3
-
-To be announced
-
-
-
-### Project Instructions and Content
+Overall Instruciions
 
 - [Assignment Instructions](project.md)
-= [Weekly Deliverable Schedule](schedule.md)
-- [Week 1 Competitve Landscape Analysis](competitive_landscape.md)
-- [Week 2 Business Analysis and Design](analysis_design.md)
-- [Week 3 Final Website and Video Proposal](proposal.md)
+- [Weekly Deliverable Schedule](schedule.md)
 
 **Unlike Previous Assignments I will keep this repository as the "master" so that  I can update t for everyone over the next 3 weeks.  You will still use GitHub classroom; however, you will be writing your own tests and maintaining this repository for the entire project that will span the next 3 weeks**
 
@@ -48,6 +26,38 @@ This project is designed to cultivate two fundamental skills:
 2. **Strategic Business and Technology Thought Process**: Your team will architect a detailed website plan, which integrates branding, marketing, and sales concepts, which will serve as a blueprint for a successful website in your final project.
 
 By completing this project, you will gain a deeper understanding of what your final project needs in terms of design and function. More importantly, you will gain valuable experience in professional processes and GIT collaboration. This exercise emulates real-world situations, preparing you for future professional challenges.
+
+### Week 1
+
+#### Main Assignment for the Week
+
+- [Week 1 Competitve Landscape Analysis](competitive_landscape.md)
+#### Main Video Content
+
+- Watch the Instructor Project Introduction Video - [Here](https://youtu.be/TSxlwFRm148)
+- [What is a competitive landscape in general - 9 Minutes](https://www.youtube.com/watch?v=C91utiNU0cI)
+- [SWOT Analysis - 6 Minutes](https://www.youtube.com/watch?v=JXXHqM6RzZQ)
+- [Sales Funnel - 3 Minutes](https://www.youtube.com/watch?v=iYEr6zxSZAI)
+- [Brand Guide - 20 Minutes](https://www.youtube.com/watch?v=iMqFcDvqGPo)
+- [Buyer Personas - 6 Minutes](https://www.youtube.com/watch?v=v6EWN4EjHM0)
+- [BANT - 9 Minutes](https://www.youtube.com/watch?v=MjtZ4DdDJNM)
+
+### Week 2
+
+#### Main Assignment for the Week
+- [Week 2 Business Analysis and Design](analysis_design.md)
+
+#### Main Video Content
+
+To be announced
+
+### Week 3
+#### Main Assignment for the Week
+
+- [Week 3 Final Website and Video Proposal](proposal.md)
+
+#### Main Video Content
+To be announced
 
 ## Important Considerations for Grading 
 
