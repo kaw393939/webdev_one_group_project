@@ -8,7 +8,24 @@ The project is centered on consolidating your GIT collaboration techniques, fami
 
 ## Module content
 
-### Watch the Instructor Instructional Video - [Here](https://youtu.be/TSxlwFRm148)
+### Week 1
+- Watch the Instructor Project Introduction Video - [Here](https://youtu.be/TSxlwFRm148)
+- [What is a competitive landscape in general - 9 Minutes](https://www.youtube.com/watch?v=C91utiNU0cI)
+- [SWOT Analysis - 6 Minutes](https://www.youtube.com/watch?v=JXXHqM6RzZQ)
+- [Sales Funnel - 3 Minutes](https://www.youtube.com/watch?v=iYEr6zxSZAI)
+- [Brand Guide - 20 Minutes](https://www.youtube.com/watch?v=iMqFcDvqGPo)
+- [Buyer Personas - 6 Minutes](https://www.youtube.com/watch?v=v6EWN4EjHM0)
+- [BANT - 9 Minutes](https://www.youtube.com/watch?v=MjtZ4DdDJNM)
+
+### Week 2
+
+To be announced
+
+### Week 3
+
+To be announced
+
+
 
 ### Project Instructions and Content
 
@@ -20,7 +37,7 @@ The project is centered on consolidating your GIT collaboration techniques, fami
 
 **Unlike Previous Assignments I will keep this repository as the "master" so that  I can update t for everyone over the next 3 weeks.  You will still use GitHub classroom; however, you will be writing your own tests and maintaining this repository for the entire project that will span the next 3 weeks**
 
-### [Click Here to Accept The GitHub Classroom Assignment](https://classroom.github.com/a/i_kI1M2b) - The first person in your group will need to create the group and they should name it your course number and section i.e. IS218-850-teamA
+### [Click Here to Accept The GitHub Classroom Assignment](https://classroom.github.com/a/i_kI1M2b) - The first person in your group will need to create the group and they should name it your course number, section, and group  i.e. IS218-850-teamA
 
 ## Project Learning Objectives
 
