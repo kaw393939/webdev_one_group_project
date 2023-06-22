@@ -13,7 +13,18 @@ Overall Instruciions
 - [Assignment Instructions](project.md)
 - [Weekly Deliverable Schedule](schedule.md)
 
-**Unlike Previous Assignments I will keep this repository as the "master" so that  I can update t for everyone over the next 3 weeks.  You will still use GitHub classroom; however, you will be writing your own tests and maintaining this repository for the entire project that will span the next 3 weeks**
+- Quick Instructor Content Reference - Stuff You Need to Read and Use
+- [Project Overview](project.md)
+- [Select Your Business Here](business.md)
+- [Weekly Project Schedule](schedule.md)
+- [Competitive  Landscape Overview](competitive_landscape.md)
+- [Competitive Landscape SWOT Dominos Example](swot.md)
+- [Activity Report Template and Instructions](collab.md)
+- [Week 2 Instructions](analysis_design.md)
+- [Week 3 Proposal](proposal.md)
+  
+
+**Unlike Previous Assignments I will keep this repository as the "master" so that  I can update it for everyone over the next 3 weeks.  You will still use GitHub classroom; however, you will be writing your own tests and maintaining this repository for the entire project that will span the next 3 weeks**
 
 ### [Click Here to Accept The GitHub Classroom Assignment](https://classroom.github.com/a/i_kI1M2b) - The first person in your group will need to create the group and they should name it your course number, section, and group  i.e. IS218-850-teamA
 
