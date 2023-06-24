@@ -1,4 +1,4 @@
-# Project Guide - Competitive Landscape SWOT Analysis - Test for merge conflict Again
+# Project Guide - Competitive Landscape SWOT Analysis - Test for merge conflict Got the Merge Confict Thiis time
 
 _"Good artists copy, great artists steal. And we have always been shameless about stealing great ideas."_ - Steve Jobs
 
